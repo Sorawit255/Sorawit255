@@ -18,5 +18,5 @@ Student ID : 65030255 - KMITL
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SitthaKlaphanich/count.svg" />
+  <img src="https://profile-counter.glitch.me/Sorawit255/count.svg" />
 </p>
